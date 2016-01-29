@@ -1,0 +1,31 @@
+{
+  "name": "govright-dictionary",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "contributors": [
+    {
+      "name": "Heath Morrison",
+      "email": "heath@govright.org"
+    },
+    {
+      "name": "Victor Miletsky",
+      "email": "victor@govright.org"
+    }
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GovRight/dictionary.git"
+  },
+  "keywords": [],
+  "author": "GovRight <contact@govright.org>",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^1.0.0",
+    "async": "^1.5.2",
+    "glob": "^6.0.4",
+    "gulp": "^3.9.0",
+    "po2json": "^0.4.1"
+  }
+}

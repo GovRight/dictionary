@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: GovRight Corpus Dictionary\n"
+"Language: en\n"
+
+#: 
+msgid "locale.code"
+msgstr "en"
+
+#: 
+msgid "law.title"
+msgstr "Law, Legislation"
+
+#: 
+msgid "law.text"
+msgstr "Law is a system of rules that are enforced through social institutions to govern behaviour. Laws can be made by a collective legislature or by a single legislator, resulting in statutes, by the executive through decrees and regulations, or by judges through binding precedent, normally in common law jurisdictions."
+
