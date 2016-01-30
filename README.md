@@ -25,7 +25,7 @@ For example, you want to add the `Legal process` phrase to the dict. Here're the
     * `legal-process.text` is the text that describes the phrase
 5. Go back to the project home page https://poeditor.com/projects/view?id=46174
 6. Go to a specific language and add translations for the newly added term.
-7. Create a card for Heath or Victor in trello to update the site.
+7. Make a request to the admins to update the site.
 8. In the corpus txt file, use the `+++terms:` tag to add terms to an article. It must contain only term slug. 
 It can be a coma-separated list of slugs. For example:
 
