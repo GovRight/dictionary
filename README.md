@@ -52,7 +52,7 @@ Add `govright.dictionary` module as a dependency to your main application module
      // ...and add 'govright.dictionary' as a dependency
      var myApp = angular.module('myApp', ['govright.dictionary'])
        // Then, inject GovrightDictionary into your controller/service
-       .controller('myContriller', function(GovrightDictionary) {
+       .controller('myController', function(GovrightDictionary) {
          // It's just a big json, access terms title/text like this
          console.log(GovrightDictionary.en['legal-process.title']);
        });
