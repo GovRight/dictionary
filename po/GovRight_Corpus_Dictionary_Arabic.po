@@ -19,3 +19,335 @@ msgstr "قانون"
 msgid "law.text"
 msgstr "القانون هو علم اجتماعي، موضوعه الإنسان وسلوكه مع نظائره، أعماله وردود أفعاله، وهذا موضوع ضخم، متغير المضمون، غير معروف على وجه التحديد ويصعب عرضه بدقـى ينظمها كل فرد وفق رغبته ومشيئته، والا صدقت وتحققت مقولة الفيلسوف بسوت Bossuet \" حيث يملك الكل فعل ما يشاءون لا يملك أحد فعل ما يشاء، وحيث لاسيد، فالكل سيد، وحيث الكل سيد فالكل عبيد \". لذاكان لابد للمجتمع من نظام يحكم العلاقات بين الناس ويفرض الأمان في المجتمع. "
 
+#: 
+msgid "legislation-penal.title"
+msgstr "التشريع الجنائي"
+
+#: 
+msgid "legislation-penal.text"
+msgstr "هو مجموعة القواعد القانونية التي تضبط فيها الدولة الافعال المجرمة وعقوباتها،وهو مايحمله مسؤولية التصدي لكل فعل مشين يؤدي إلى خلق اضطراب في  المجتمع. "
+
+#: 
+msgid "crime.title"
+msgstr "الجريمة"
+
+#: 
+msgid "crime.text"
+msgstr "هي عمل أو امتناع عن عمل مخالف للقانون الجنائي ومعاقب عليه بمقتضاه"
+
+#: 
+msgid "peines-initiales.title"
+msgstr "العقوبات الأصلية"
+
+#: 
+msgid "peines-initiales.text"
+msgstr "العقوبات الأصلية إما جنائية أو جنحية أو ضبطية. فتكون أصلية عندما يسوغ الحكم بها وحدها دون أن تضاف إلى عقوبة أخرى."
+
+#: 
+msgid "peines-additionnelle.title"
+msgstr "العقوبات الإضافية"
+
+#: 
+msgid "peines-additionnelle.text"
+msgstr "تكون إضافية عندما لا يسوغ الحكم بها وحدها، أو عندما تكون ناتجة عن الحكم بعقوبة أصلية."
+
+#: 
+msgid "cour-dappel.title"
+msgstr "محكمة الإستئناف"
+
+#: 
+msgid "cour-dappel.text"
+msgstr "محكمة الدرجة الثانية التي تنظر الطعون في الأحكام الصادرة من محاكم الدرجة الأولى القابلة للطعن أمامها وفي القضايا الأخرى التي نصّ القانون على اختصاصها بها."
+
+#: 
+msgid "Tribunal-Ier-Instance.title"
+msgstr "محكمة إبتدائية"
+
+#: 
+msgid "Tribunal-Ier-Instance.text"
+msgstr "محكمة ذات ولاية عامة للنظر بدرجة أولى في جميع القضايا التي أسندها إليها القانون أو لم يعيّن مرجعاً آخر للنظر فيها."
+
+#: 
+msgid "Force-Majeur.title"
+msgstr "القوة القاهرة"
+
+#: 
+msgid "Force-Majeur.text"
+msgstr "كل شيء لا يستطيع الإنسان دفعه."
+
+#: 
+msgid "Peine-Mort.title"
+msgstr "الإعـــدام"
+
+#: 
+msgid "Peine-Mort.text"
+msgstr "إزهاق روح الجاني وفق الطرق المقرّرة قانوناً."
+
+#: 
+msgid "residence-forcee.title"
+msgstr "الإقامة الجبرية"
+
+#: 
+msgid "residence-forcee.text"
+msgstr "المكان الذي يحدّده القاضي لإقامة المحكوم عليه."
+
+#: 
+msgid "Prison.title"
+msgstr "السجــــن,الحبــــس"
+
+#: 
+msgid "Prison.text"
+msgstr "حجز حرية المحكوم عليه بوضعه في إحدى المؤسسات المخصّصة قانوناً تنفيذاً لحكم صادر في جنحة."
+
+#: 
+msgid "tentative-crime.title"
+msgstr "محاولة الجريمة (الشروع)"
+
+#: 
+msgid "tentative-crime.text"
+msgstr "البدء في تنفيذ جناية أو جنحة أوقف تنفيذها أو لم يحصل أثرها بسبب خارج عن إرادة الفاعل."
+
+#: 
+msgid "amende.title"
+msgstr "الغــرامــة"
+
+#: 
+msgid "amende.text"
+msgstr "إلزام المحكوم عليه بأداء مبلغ من النقود لصالح الخزينة العامة."
+
+#: 
+msgid "arrêt-criminel.title"
+msgstr "التوقيـــف"
+
+#: 
+msgid "arrêt-criminel.text"
+msgstr "حجز الشخص قبل صدور الحكم عليه."
+
+#: 
+msgid "interdiction-residence.title"
+msgstr "منع الإقامــة"
+
+#: 
+msgid "interdiction-residence.text"
+msgstr "حظر تواجد المحكوم، بعد الإفراج عنه، في الأماكن التي يعيّنها الحكم."
+
+#: 
+msgid "obligation-resider.title"
+msgstr "الإجبار على الإقامة"
+
+#: 
+msgid "obligation-resider.text"
+msgstr "إلزام المحكمة للمحكوم عليه بعقوبة سالبة للحرية، بالإقامة في المكان أو الدائرة التي تعينها، بعد تنفيذ العقوبة، في الجرائم التي تمسّ أمن الدولة."
+
+#: 
+msgid "dissoudre-personne-morale.title"
+msgstr "حلّ الشخص المعنوي"
+
+#: 
+msgid "dissoudre-personne-morale.text"
+msgstr "منعه عن مواصلة نشاطه، ويترتّب عليه تصفية أمواله."
+
+#: 
+msgid "recidive.title"
+msgstr "العـــــود"
+
+#: 
+msgid "recidive.text"
+msgstr "ارتكاب جريمة بعد أن يصدر حكم اكتسب الدرجة القطعية من أجل جريمة سابقة."
+
+#: 
+msgid "meurtre-premedite.title"
+msgstr "القتل العمد"
+
+#: 
+msgid "meurtre-premedite.text"
+msgstr "إزهاق نفس قصداً وعدواناً."
+
+#: 
+msgid "meurtre-sans-premeditation.title"
+msgstr "القتل الخطــأ"
+
+#: 
+msgid "meurtre-sans-premeditation.text"
+msgstr "التسبّب في موت شخص عن إهمال أو قلّة احتراز أو عدم مراعاة القوانين والأنظمة."
+
+#: 
+msgid "complot.title"
+msgstr "المؤامـــرة"
+
+#: 
+msgid "complot.text"
+msgstr "كل تصميم يتمّ بين شخصين أو أكثر على ارتكاب فعل إجرامي."
+
+#: 
+msgid "trahison.title"
+msgstr "الخيانــــة"
+
+#: 
+msgid "trahison.text"
+msgstr "ارتكاب المواطن أحد الجرائم الماسّة بأمن الدولة الخارجي."
+
+#: 
+msgid "espionnage.title"
+msgstr "التجسّــس"
+
+#: 
+msgid "espionnage.text"
+msgstr "ارتكاب الأجنبي أحد الجرائم الماسّة بأمن الدولة الخارجي."
+
+#: 
+msgid "detournement-fonds.title"
+msgstr "الإختــلاس"
+
+#: 
+msgid "detournement-fonds.text"
+msgstr "كل إخفاء أو إتلاف أو تبديد أو احتجاز لأموال عامة أو خاصة أو سندات تقوم مقامها أو منقولات أو عقود من موظف عهدت إليه بمقتضى وظيفته أو بسببها."
+
+#: 
+msgid "corruption.title"
+msgstr "الرشـــوة"
+
+#: 
+msgid "corruption.text"
+msgstr "طلب الموظف لنفسه أو لغيره أو قبوله أو أخذه وعداً أو عطية لأداء عمل من أعمال وظيفته أو الإمتناع عنه."
+
+#: 
+msgid "abus-pouvoir.title"
+msgstr "استغلال النفوذ"
+
+#: 
+msgid "abus-pouvoir.text"
+msgstr "طلب الموظف أو قبوله عرضاً بمنفعة من أجل الحصول على قرار لصالحه أو لصالح غيره، مستغلاً في ذلك نفوذه."
+
+#: 
+msgid "abus.title"
+msgstr "الشطط في استعمال السلطة"
+
+#: 
+msgid "abus.text"
+msgstr "تكليف الموظف أو أمره أو حمله للغير باستعمال القوة العامة أو تدخلها ضد تنفيذ القانون أو أي أمر صادر من سلطة شرعية."
+
+#: 
+msgid "mendicite.title"
+msgstr "التســــوّل"
+
+#: 
+msgid "mendicite.text"
+msgstr "اعتياد ممارسة الإستجداء ممن كان لديه وسيلة مشروعة للتعيش أو في إمكانه الحصول عليها."
+
+#: 
+msgid "falsification.title"
+msgstr "التزويــــر"
+
+#: 
+msgid "falsification.text"
+msgstr "تغيير الحقيقة مادّياً أو معنوياً بقصد الغشّ في سند أو وثيقة من شأنه إحداث ضرر."
+
+#: 
+msgid "contrefaçon-argent.title"
+msgstr "تزييف النقـود"
+
+#: 
+msgid "contrefaçon-argent.text"
+msgstr "تقليد النقود بصنع نقود تشبه العملة الحقيقية."
+
+#: 
+msgid "changement-argent.title"
+msgstr "تغيير النقـود"
+
+#: 
+msgid "changement-argent.text"
+msgstr "إستبدال النقود المعدنية المتداولة قانوناً أو إنقاص وزنها أو نسبة الفضة أو الذهب فيها."
+
+#: 
+msgid "faux-temoignage.title"
+msgstr "شهادة الزور"
+
+#: 
+msgid "faux-temoignage.text"
+msgstr "تغيير الحقيقة عمداً تغييراً من شأنه تضليل العدالة لصالح أحد الخصوم أو ضده."
+
+#: 
+msgid "premeditation.title"
+msgstr "سبق الإصرار"
+
+#: 
+msgid "premeditation.text"
+msgstr "العزم المصمّم عليه قبل وقوع الجريمة بالإعتداء على شخص معيّن أو على أي شخص قد يوجد أو يصادف وجوده في مكان الجريمة."
+
+#: 
+msgid "surveillance.title"
+msgstr "الترصّـــد"
+
+#: 
+msgid "surveillance.text"
+msgstr "التربّص بشخص قصد قتله أو ارتكاب العنف ضده."
+
+#: 
+msgid "insultes.title"
+msgstr "السّــــب"
+
+#: 
+msgid "insultes.text"
+msgstr "كل تعبير شائن أو عبارة تحقير أو قدح لا يتضمّن أية واقعة معيّنة."
+
+#: 
+msgid "violation-pudeur-publique.title"
+msgstr "الإخلال العلني بالحياء"
+
+#: 
+msgid "violation-pudeur-publique.text"
+msgstr "ارتكاب أفعال أو إشارات مخلّة بالحياء العام علناً بحضور شخص أو أكثر أو بحضور قاصر أو في مكان عامّ."
+
+#: 
+msgid "viol.title"
+msgstr "هتك العــرض"
+
+#: 
+msgid "viol.text"
+msgstr "كل اعتداء جنسي مهما كان نوعه جرى ارتكابه على شخص الغير ذكراً أم أنثى بدون رضاه."
+
+#: 
+msgid "homosexualite.title"
+msgstr "الشذوذ الجنسي"
+
+#: 
+msgid "homosexualite.text"
+msgstr "كل فعل جنسي تمّ بالتراضي بين شخصين من نفس الجنس."
+
+#: 
+msgid "crime-corruption.title"
+msgstr "جريمة الفسـاد"
+
+#: 
+msgid "crime-corruption.text"
+msgstr "كل علاقة جنسية دون جريمة الزنا بين رجل وامرأة لا تربط بينهما علاقة زوجية."
+
+#: 
+msgid "prostitution.title"
+msgstr "البغـــــاء"
+
+#: 
+msgid "prostitution.text"
+msgstr "احتراف المرأة ممارسة العلاقة الجنسية مع الرجال مقابل أجر أو مكافأة."
+
+#: 
+msgid "arnaque.title"
+msgstr "النصــــب"
+
+#: 
+msgid "arnaque.text"
+msgstr "استعمال وسائل إحتيالية لخدع المجنى عليه ودفعه إلى أعمال أو تصرفات ضارّة به أو بالغير مقابل الحصول على منفعة."
+
+#: 
+msgid "malhonotete.title"
+msgstr "خيانة الأمانـة"
+
+#: 
+msgid "malhonotete.text"
+msgstr "تصرّف الشخص لفائدته أو لفائدة غيره في مال منقول مملوك للغير بسوء قصد أو تصرّف فيه خلافاً للغرض الذي سلّم له من أجله."
+
+#: 
+msgid "locale.name"
+msgstr "Arabic"
+

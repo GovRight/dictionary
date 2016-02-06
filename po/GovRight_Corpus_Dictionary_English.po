@@ -19,3 +19,335 @@ msgstr "Law, Legislation"
 msgid "law.text"
 msgstr "Law is a system of rules that are enforced through social institutions to govern behaviour. Laws can be made by a collective legislature or by a single legislator, resulting in statutes, by the executive through decrees and regulations, or by judges through binding precedent, normally in common law jurisdictions."
 
+#: 
+msgid "legislation-penal.title"
+msgstr ""
+
+#: 
+msgid "legislation-penal.text"
+msgstr ""
+
+#: 
+msgid "crime.title"
+msgstr ""
+
+#: 
+msgid "crime.text"
+msgstr ""
+
+#: 
+msgid "peines-initiales.title"
+msgstr ""
+
+#: 
+msgid "peines-initiales.text"
+msgstr ""
+
+#: 
+msgid "peines-additionnelle.title"
+msgstr ""
+
+#: 
+msgid "peines-additionnelle.text"
+msgstr ""
+
+#: 
+msgid "cour-dappel.title"
+msgstr ""
+
+#: 
+msgid "cour-dappel.text"
+msgstr ""
+
+#: 
+msgid "Tribunal-Ier-Instance.title"
+msgstr ""
+
+#: 
+msgid "Tribunal-Ier-Instance.text"
+msgstr ""
+
+#: 
+msgid "Force-Majeur.title"
+msgstr ""
+
+#: 
+msgid "Force-Majeur.text"
+msgstr ""
+
+#: 
+msgid "Peine-Mort.title"
+msgstr ""
+
+#: 
+msgid "Peine-Mort.text"
+msgstr ""
+
+#: 
+msgid "residence-forcee.title"
+msgstr ""
+
+#: 
+msgid "residence-forcee.text"
+msgstr ""
+
+#: 
+msgid "Prison.title"
+msgstr ""
+
+#: 
+msgid "Prison.text"
+msgstr ""
+
+#: 
+msgid "tentative-crime.title"
+msgstr ""
+
+#: 
+msgid "tentative-crime.text"
+msgstr ""
+
+#: 
+msgid "amende.title"
+msgstr ""
+
+#: 
+msgid "amende.text"
+msgstr ""
+
+#: 
+msgid "arrêt-criminel.title"
+msgstr ""
+
+#: 
+msgid "arrêt-criminel.text"
+msgstr ""
+
+#: 
+msgid "interdiction-residence.title"
+msgstr ""
+
+#: 
+msgid "interdiction-residence.text"
+msgstr ""
+
+#: 
+msgid "obligation-resider.title"
+msgstr ""
+
+#: 
+msgid "obligation-resider.text"
+msgstr ""
+
+#: 
+msgid "dissoudre-personne-morale.title"
+msgstr ""
+
+#: 
+msgid "dissoudre-personne-morale.text"
+msgstr ""
+
+#: 
+msgid "recidive.title"
+msgstr ""
+
+#: 
+msgid "recidive.text"
+msgstr ""
+
+#: 
+msgid "meurtre-premedite.title"
+msgstr ""
+
+#: 
+msgid "meurtre-premedite.text"
+msgstr ""
+
+#: 
+msgid "meurtre-sans-premeditation.title"
+msgstr ""
+
+#: 
+msgid "meurtre-sans-premeditation.text"
+msgstr ""
+
+#: 
+msgid "complot.title"
+msgstr ""
+
+#: 
+msgid "complot.text"
+msgstr ""
+
+#: 
+msgid "trahison.title"
+msgstr ""
+
+#: 
+msgid "trahison.text"
+msgstr ""
+
+#: 
+msgid "espionnage.title"
+msgstr ""
+
+#: 
+msgid "espionnage.text"
+msgstr ""
+
+#: 
+msgid "detournement-fonds.title"
+msgstr ""
+
+#: 
+msgid "detournement-fonds.text"
+msgstr ""
+
+#: 
+msgid "corruption.title"
+msgstr ""
+
+#: 
+msgid "corruption.text"
+msgstr ""
+
+#: 
+msgid "abus-pouvoir.title"
+msgstr ""
+
+#: 
+msgid "abus-pouvoir.text"
+msgstr ""
+
+#: 
+msgid "abus.title"
+msgstr ""
+
+#: 
+msgid "abus.text"
+msgstr ""
+
+#: 
+msgid "mendicite.title"
+msgstr ""
+
+#: 
+msgid "mendicite.text"
+msgstr ""
+
+#: 
+msgid "falsification.title"
+msgstr ""
+
+#: 
+msgid "falsification.text"
+msgstr ""
+
+#: 
+msgid "contrefaçon-argent.title"
+msgstr ""
+
+#: 
+msgid "contrefaçon-argent.text"
+msgstr ""
+
+#: 
+msgid "changement-argent.title"
+msgstr ""
+
+#: 
+msgid "changement-argent.text"
+msgstr ""
+
+#: 
+msgid "faux-temoignage.title"
+msgstr ""
+
+#: 
+msgid "faux-temoignage.text"
+msgstr ""
+
+#: 
+msgid "premeditation.title"
+msgstr ""
+
+#: 
+msgid "premeditation.text"
+msgstr ""
+
+#: 
+msgid "surveillance.title"
+msgstr ""
+
+#: 
+msgid "surveillance.text"
+msgstr ""
+
+#: 
+msgid "insultes.title"
+msgstr ""
+
+#: 
+msgid "insultes.text"
+msgstr ""
+
+#: 
+msgid "violation-pudeur-publique.title"
+msgstr ""
+
+#: 
+msgid "violation-pudeur-publique.text"
+msgstr ""
+
+#: 
+msgid "viol.title"
+msgstr ""
+
+#: 
+msgid "viol.text"
+msgstr ""
+
+#: 
+msgid "homosexualite.title"
+msgstr ""
+
+#: 
+msgid "homosexualite.text"
+msgstr ""
+
+#: 
+msgid "crime-corruption.title"
+msgstr ""
+
+#: 
+msgid "crime-corruption.text"
+msgstr ""
+
+#: 
+msgid "prostitution.title"
+msgstr ""
+
+#: 
+msgid "prostitution.text"
+msgstr ""
+
+#: 
+msgid "arnaque.title"
+msgstr ""
+
+#: 
+msgid "arnaque.text"
+msgstr ""
+
+#: 
+msgid "malhonotete.title"
+msgstr ""
+
+#: 
+msgid "malhonotete.text"
+msgstr ""
+
+#: 
+msgid "locale.name"
+msgstr "English"
+

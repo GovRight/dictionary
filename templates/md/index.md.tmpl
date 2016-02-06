@@ -1,0 +1,5 @@
+# Available legal terms
+
+Last update on *<% print(new Date()) %>*
+<% _.forEach(locales, function(l, code) { %>
+* [**<%= l.name %>** (<%= l.count %> terms)](<%= code %>.md) <% }); %>

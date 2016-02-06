@@ -21,11 +21,14 @@
   "keywords": [],
   "author": "GovRight <contact@govright.org>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "app-root-path": "^1.0.0",
     "async": "^1.5.2",
+    "bluebird": "^3.2.2",
     "glob": "^6.0.4",
     "gulp": "^3.9.0",
-    "po2json": "^0.4.1"
+    "lodash": "^4.2.1",
+    "po2json": "^0.4.1",
+    "run-sequence": "^1.1.5"
   }
 }

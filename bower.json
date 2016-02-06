@@ -1,15 +1,22 @@
 {
   "name": "govright-dictionary",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "dist/govright-dictionary.js",
   "homepage": "https://github.com/GovRight/dictionary",
   "authors": [
     "Victor Miletsky <victor@govright.org>",
     "Heath Morrison <heath@govright.org>"
   ],
   "ignore": [
+    "**/.*",
     "node_modules",
-    "bower_components"
+    "bower_components",
+    "terms",
+    "test",
+    "po",
+    "templates",
+    "gulpfile.js",
+    "package.json"
   ],
   "dependencies": {
     "angular": "^1.4.0"

@@ -1,11 +1,12 @@
 # GovRight Corpus Dictionary 
 
-POEditor project https://poeditor.com/projects/view?id=46174
+List of legal terms in different languages. See the [full list of available terms](terms/index.md).
 
 ## Dictionary terms management
 
 ### General concept
 
+Terms are stored in the [POEditor project](https://poeditor.com/projects/view?id=46174).
 Here're some rules applied to each entry in the dictionary:
 
 1. Each entry in the dictionary is represented by 2 strings - title and text.
@@ -36,6 +37,31 @@ Example article text
 ---/article-123
 ```
 
+## Usage
+
+Add `govright.dictionary` module as a dependency to your main application module. Example:
+
+```html
+<!doctype html>
+<html ng-app="myApp">
+ <head>
+   <script src="js/angular.js"></script>
+   <!-- Include the dictionary script -->
+   <script src="dist/govright-dictionary.js"></script>
+   <script>
+     // ...and add 'govright.dictionary' as a dependency
+     var myApp = angular.module('myApp', ['govright.dictionary'])
+       // Then, inject GovrightDictionary into your controller/service
+       .controller('myContriller', function(GovrightDictionary) {
+         // It's just a big json, access terms title/text like this
+         console.log(GovrightDictionary.en['legal-process.title']);
+       });
+   </script>
+ </head>
+ <body></body>
+</html>
+```
+
 ## Development
  
 ### Updating terms
@@ -47,4 +73,13 @@ Example article text
 
 ### CLI commands
 
-* `gulp` - rebuild dist from po files
+```bash
+# Rebuild angular service
+gulp ng
+
+# Rebuild markdown docs
+gulp md
+
+# Rebuild everything
+gulp
+```
