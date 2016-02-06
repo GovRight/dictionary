@@ -71,7 +71,8 @@ gulp.task('md', function() {
         });
         var data = _.template(localeTmpl)({
           index: index[l],
-          terms: localisedTerms
+          terms: localisedTerms,
+          dir: (l === 'ar') ? 'rtl' : 'ltr'
         });
         return writeFile(appRoot + '/terms/' + l + '.md', data);
       });

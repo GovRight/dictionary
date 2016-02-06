@@ -1,5 +1,5 @@
 # <%= index.name %> (<%= index.count %> terms)
 <% _.forEach(terms, function(term, slug) { %>
-#### <%= term.title %> : `<%= slug %>`
-  <%= term.text %>
+<h4 dir="<%= dir %>"><%= term.title %> : <code><%= slug %></code></h4>
+<div dir="<%= dir %>"><%= term.text %></div>
 <% }); %>
