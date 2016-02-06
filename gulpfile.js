@@ -77,9 +77,9 @@ gulp.task('md', function() {
       });
     });
   }).then(function() {
-    return readFile(appRoot + '/templates/md/index.md.tmpl', 'utf8');
+    return readFile(appRoot + '/templates/md/README.md.tmpl', 'utf8');
   }).then(function(indexTmpl) {
-    return writeFile(appRoot + '/terms/index.md', _.template(indexTmpl)({locales: index}));
+    return writeFile(appRoot + '/terms/README.md', _.template(indexTmpl)({locales: index}));
   }).catch(console.error);
 });
 
