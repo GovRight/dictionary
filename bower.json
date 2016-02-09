@@ -1,6 +1,6 @@
 {
   "name": "govright-dictionary",
-  "description": "",
+  "description": "List of legal terms in different languages",
   "main": "dist/govright-dictionary.js",
   "homepage": "https://github.com/GovRight/dictionary",
   "authors": [
