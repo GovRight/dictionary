@@ -1,6 +1,6 @@
-# GovRight Corpus Dictionary 
+# GovRight Dictionary 
 
-List of legal terms in different languages. See the [full list of available terms](terms/README.md).
+List of legal terms together with their descriptions in different languages. See the [full list of available terms](terms/README.md).
 
 ## Dictionary terms management
 
